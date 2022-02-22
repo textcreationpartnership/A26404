@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The addresses importing an abhorrence of an association, pretended to have been seized in the E. of Shaftsbury's closet, laid open and detected, in a letter to a friend</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26404</idno>
+            <idno type="STC">Wing A569</idno>
+            <idno type="STC">ESTC R21222</idno>
+            <idno type="EEBO-CITATION">12226448</idno>
+            <idno type="OCLC">ocm 12226448</idno>
+            <idno type="VID">56524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 621:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The addresses importing an abhorrence of an association, pretended to have been seized in the E. of Shaftsbury's closet, laid open and detected, in a letter to a friend</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwyn,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:56524:1" rendition="simple:additions"/>
+            <head>The Addreſſes Importing an ABHORRENCE OF An Aſſociation, Pretended to have been ſeized in the E. of <hi>Shaftsbury</hi>'s Cloſet, Laid open and Detected.</head>
+            <head>In a Letter to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Perceive by yours of <hi>March</hi> 4th. that the <hi>Fermentation</hi> which the Nation is put into, muſt be cheriſhed by the ſame ways and methods that it was firſt occaſioned and cauſed: For ſhould the heats and animoſities among Proteſtants be once ſuffered to aſ<g ref="char:EOLhyphen"/>ſwage and abate, the <hi>Romiſh</hi> Deſigns againſt the Proteſtant Religion and the Liberties of <hi>England,</hi> would not only miſcarry and prove abortive; but they who have been wheedled to betray God and their Country, by con<g ref="char:EOLunhyphen"/>tributing ignorantly to the promotion and ſervice of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Ends, would be the firſt to expreſs their Indignation againſt the Papiſts, both as an effect of their reſentment, for ha<g ref="char:EOLhyphen"/>ving been through their influence, thrown into a <hi>Lunacy</hi> and <hi>Delirium,</hi> and as an Evi<g ref="char:EOLhyphen"/>dence to the Kingdom that they are at laſt cured of their Diſtraction. And therefore the Operation and Efficacy of the <hi>Declara<g ref="char:EOLhyphen"/>tion</hi> againſt the two laſt Parliaments being wholly ſpent, I am not ſurpriſed to find an advantage taken from a pretended Paper, importing an Unlawful <hi>Aſſociation</hi> againſt the Government; for the perpetuating ran<g ref="char:EOLhyphen"/>cours amongſt His Majeſties Leige People, and the caſting thoſe back again into a Fea<g ref="char:EOLhyphen"/>ver, who were recovering their ſenſes, and coming to a ſedate mind: And as all men are worſe upon Relapſes than they were of their firſt Diſeaſes; ſo we are not to think it ſtrange, that people are more extravagant in their late Addreſſes, than they were in the former. But there being ſo many things to be ſaid in return to your Letter, and being by Command confined to repreſent my Thoughts in one Sheet, I ſhall Preface no farther, but apply my ſelf to obey you in the moſt compendious manner I can.</p>
+            <p>Nor ſhall I pronounce that of the late Ad<g ref="char:EOLhyphen"/>dreſſes, which a Celebrated and Court-Au<g ref="char:EOLhyphen"/>thor doth, concerning thoſe made to <hi>Oliver Cromwell;</hi> namely, <hi>That they were no other than Leagues Offenſive and Defenſive between him and the Faction;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emento 2d Edit. p. 29.</note> 
+               <hi>and that while his Care was for engaging one Party, it was for deſtroying another.</hi> For though ſome little Folk, who officiouſly manage this af<g ref="char:EOLhyphen"/>fair, may have ſuch a Project, yet it is im<g ref="char:EOLhyphen"/>poſſible that His Majeſty ſhould either pro<g ref="char:EOLhyphen"/>poſe or countenance ſo baſe and deſtructive a Deſign.</p>
+            <p>Nor will I ſay, That it had been but reaſo<g ref="char:EOLhyphen"/>nable, That they who do embark in new Addreſſes, ſhould have firſt ſeen the fruits and effect of their former: For whereas they ſeek to juſtifie themſelves in what they did, by the Aſſurances which they ſuppoſe His Majeſty gave them of having frequent Par<g ref="char:EOLhyphen"/>liaments, though he had Diſſolved Two or Three, without giving them time to perfect thoſe Important Matters which the whole Nation apprehended they were called for; ſo it would have been ſome Argument of the Candor and Sincerity of their intentions in what they did before, if they had for<g ref="char:EOLhyphen"/>born their late Applications, till they had found that they were not miſtaken in the
+<pb n="2" facs="tcp:56524:2" rendition="simple:additions"/>grounds upon which they think to vindicate themſelves for what they then did.</p>
+            <p>Neither will I inſiſt upon this, That it had become them to be well aſſured that there was ſuch a Paper ſtiled an <hi>Aſſociation</hi> found in my Lord <hi>Shaftsbury</hi>'s Cloſet, before they took upon them to talk ſo loudly of it, and vent themſelves in ſo ſtrange and unaccountable expreſſions upon Mr <hi>Gwyns</hi> bare ſuggeſtion of ſuch a thing. For as it is moſt certain, that it was not the founda<g ref="char:EOLhyphen"/>tion of my Lords Apprehenſion and Com<g ref="char:EOLhyphen"/>mitment, ſeeing the Bag into which it was put, when ſaid to be ſeiſed in his <hi>Lordſhips</hi> Study, was not opened till after his Con<g ref="char:EOLhyphen"/>finement in the Tower for High Treaſon; ſo it is not impoſſible but that they who had the confidence to impoſe other things upon this Noble Peer in the printed Rela<g ref="char:EOLhyphen"/>tion of the proceedings at the <hi>Old-Bayly,</hi> than were depoſed by the Witneſſes in Court, might with the ſame liberty and for the ſame end, forge and invent this Pa<g ref="char:EOLhyphen"/>per, and aſcribe it to his Lordſhip. For whereas <hi>Smith</hi> upon giving his Evidence at the Bar ſaid, that the Earl of <hi>Shafts<g ref="char:EOLhyphen"/>bury told him he was</hi> ſorry <hi>that the King ſaw not his danger,</hi> &amp;c. They who un<g ref="char:EOLhyphen"/>dertook the communicating thoſe <hi>proceed<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs</hi> to the World, make <hi>Smith</hi> declare up<g ref="char:EOLhyphen"/>on Oath that the ſaid Earl told him, <hi>he was</hi> glad <hi>the King ſaw not his danger.</hi>
+            </p>
+            <p>Nor ſhall I inſiſt upon this, That it had been but congruous, and what became <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> men, to have teſtified their deteſtation of the many late <hi>Sham Plots</hi> whereby our Enemies have been endeavouring to de<g ref="char:EOLhyphen"/>ſtroy Loyal and innocent Proteſtants, as well as their declaring an Abhorrency of a pretended <hi>Aſſociation</hi> againſt the Monarchy; and the rather, becauſe the forging crimes for involving guiltleſs perſons in dan<g ref="char:EOLhyphen"/>ger, hath been real; whereas ſuch an <hi>Aſ<g ref="char:EOLhyphen"/>ſociation</hi> as the late Clamour is raiſed up<g ref="char:EOLhyphen"/>on, was, for what yet appears, only feigned and imaginary. We have ſeen ſome of the beſt perſons in the Kingdom caſt into Pri<g ref="char:EOLhyphen"/>ſons and arraigned in Courts upon malici<g ref="char:EOLhyphen"/>ous ſubornations, and Popiſh <hi>Sham</hi> conſpi<g ref="char:EOLhyphen"/>racies; but no man can produce ſo much as a Name ſubſcribed to any Paper, where<g ref="char:EOLhyphen"/>by to perſwade himſelf or others of a com<g ref="char:EOLhyphen"/>bination againſt His Majeſty and the Go<g ref="char:EOLhyphen"/>vernment. Nor can they be thought to bear any great Loyalty to the King, who have not ſome regard for the ſafety of his Proteſtant Subjects, and the preſervation of the Proteſtant Religion. And there<g ref="char:EOLhyphen"/>fore while ſome are ſo buſie here and there to gather hands to Addreſſes of another Nature, it were but a ſeaſonable piece of ſervice to the King, and a duty which all Law both Divine and Humane will juſti<g ref="char:EOLhyphen"/>fie, for others to make an Addreſs to His Majeſty, that we may have the benefit and protection of his Government, and that our Lives and Eſtates may be defended from the malice of thoſe, who by hiring and ſuborn<g ref="char:EOLhyphen"/>ing mercinary Villians to ſwear forged Crimes againſt us, have been unweariedly deſigning our ruin. And as it is not to be ſuppoſed that an application of this nature would be unacceptable to the King, the end and aim of his Reign being not only to look after our obedience to his Law, but to ſee that we are kept ſafe from the wrath and rage of our Enemies; ſo it would tend to the honour of <hi>London</hi> to lead the way to others in ſo uſe<g ref="char:EOLhyphen"/>ful, and at this time ſo neceſſary a duty.</p>
+            <p>Nor ſhall I do more but barely intimate, that it looks ill, and ſeems calculated for no good deſign, to find Addreſſes for diſſol<g ref="char:EOLhyphen"/>ving Parliaments, and abhorring all <hi>Aſſo<g ref="char:EOLhyphen"/>ciations,</hi> countenanced and promoted, while Petitions for a Parliament were for<g ref="char:EOLhyphen"/>bidden by Proclamation, and the Petitioners publickly reprimanded. For ſuppoſing that ſome one Paper bearing the Name of an <hi>Aſ<g ref="char:EOLhyphen"/>ſociation,</hi> was unduly fram'd and worded; is this a juſtifiable ground to ridicule and Abhor every <hi>Aſſociation,</hi> tho' never ſo well adapted for the preſervation of His Majeſties Perſon and Dignity, and promo<g ref="char:EOLhyphen"/>ted in a Parliamentary way, and not to take till it receive the Royal ſtamp? How ſtrangely does it look in a well-governed State, to find ſuch a one as the Mayor of <hi>Gl.</hi> who was admitted into the freedom of that City, <hi>for the good ſevice which he did in fighting againſt</hi> Charles Steward <hi>at Wor<g ref="char:EOLhyphen"/>ceſter,</hi> (as the words inſerted in their Town-Book bear) to be hugg'd and embraced for advancing Addreſſes of one complection, while in the mean time many Loyal Gentle<g ref="char:EOLhyphen"/>men who ſhed their Blood, loſt their Eſtates and underwent Impriſonment and Exile for the King are frown'd upon for offering to appear in applications of another figure. Men of Principles act always uniformly; whereas ſuch as are ſway'd by intereſt, are ready to engage with the ſame heat in every thing that lyes in ſubſerviency to their gain. Some people think it not enough to attone for their former actions by their future Loyalty, but they ſeek to expiate their Crimes on one ſide, by running into illegal, rigorous, and mad exceſſes on the other. And I heartily wiſh, that an eminent Magiſtrate in the City of <hi>London,</hi> may not hope to make a compenſation for having been a Clerk to a Regiment in the War againſt the late King, by complying with and purſuing whatſoever ſome men about the Court, or ſuch who are influenced by thoſe that are, put him upon. But what is this age degenerated into, that they
+<pb n="3" facs="tcp:56524:2" rendition="simple:additions"/>who have ſerved themſelves of Diſſenters in order to their getting into places of Truſt, by proclaiming what bleſſed opportunities they have enjoyed with that ſort of men under this and that Nonconfor<g ref="char:EOLhyphen"/>miſt Miniſter, ſhould inſtead of expreſſing a concern for the Proteſtant Religion anſwer<g ref="char:EOLhyphen"/>able to the are of it and the ſtations they are in, not only abandon, but from weakneſs, fear, or worſe Principles, ſubmit to be Tools to accelerate its ruine.</p>
+            <p>However I am ſure the Government hath no cauſe of apprehending danger either from Phanatick Preachers or Poeple, ſeeing ſome of the moſt fam'd amongſt them, af<g ref="char:EOLhyphen"/>ter having been a hundred times deceived and impoſed upon, are ſtill ready to be brib'd by a dinner or a ſmile, or wheedled by a fair word to co-operate with their e<g ref="char:EOLhyphen"/>nemies, and become inſtrumental of their own deſtruction. And therefore it is to be deſired, that ſome of the diſſenting Eccleſi<g ref="char:EOLhyphen"/>aſticks would be contented with Grace, which is the Talent that God hath given them, and not pretend to Civil Wiſdom, ſeeing it is evident to all the world, that the Great Diſpenſer hath withheld it from them.</p>
+            <p>Theſe thing being briefly intimated, it is now time to advance thoſe Reflexions and Obſervations which we judg proper to be offered upon the occaſion of the late Ab<g ref="char:EOLhyphen"/>horring Addreſſes. Nor will it be amiſs in the firſt place, to take notice how ſome mens opinions concerning theſe kind of Applications, do alter and vary according to, and in correſpondence with the deſign and intereſts which men ſerve. For the very perſon that is not only principally employ'd in framing the draughts which are remitted into the Countrey, where Lieutennants, Juſti<g ref="char:EOLhyphen"/>ces and Curates, are commiſſioned to pro<g ref="char:EOLhyphen"/>cure ſubſcriptions to them, but whoſe Province it is to publiſh their uſefulneſs to the Go<g ref="char:EOLhyphen"/>vernment, and to make the world believe what ſecurity the State receiveth from them in order to its ſupport in the purſuance of preſent Councels: I ſay, this very Gentle<g ref="char:EOLhyphen"/>man had different thoughts concerning Ad<g ref="char:EOLhyphen"/>dreſſes ſome years ago when they came in ſholes to <hi>Oliver Cromwell,</hi> and with great multitudes of hands ſubjoined to them, from what he now hath.</p>
+            <p>For ſays he, <hi>Thoſe numerous and pretend<g ref="char:EOLhyphen"/>ed Applications,</hi> as they were but <hi>an Ar<g ref="char:EOLhyphen"/>tifice to piece up the Protectors broken Power as far as well it could be,</hi>
+               <note place="margin">See Mr. L'E<g ref="char:EOLhyphen"/>ſtranges Me<g ref="char:EOLhyphen"/>mento p. 30.</note> 
+               <hi>ſo they were but falſe Gloſſes upon his Power, and</hi> Crom<g ref="char:EOLhyphen"/>wel <hi>was too wiſe to think them other. For being gain<g ref="char:EOLhyphen"/>ed by contrivement and force, or at leaſt by im<g ref="char:EOLhyphen"/>portunity; half a ſcore pitiful wretches ſtiled themſelves the people of ſuch or ſuch a County, and there was the Total of the reckoning.</hi>
+            </p>
+            <p>But we may the leſs wonder at this change of Judgment in ſome men, as to the ſignifi<g ref="char:EOLhyphen"/>cancy or inſignificancy of Addreſſes, if we conſider how the opinion of the Papiſts is much altered from what it was 90 years ago, as to the Right which the next in the Royal Line hath to inherit the Crown after the Ruling Prince. For whereas we have no<g ref="char:EOLhyphen"/>thing from them now, but that it is an un<g ref="char:EOLhyphen"/>pardonable Sin to exclude the Preſumptive Heir, be his Principles what they will, and our danger from him in caſe he ſucceed, ne<g ref="char:EOLhyphen"/>ver ſo viſible; they ſpake another kind of Language towards the end of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> Reign, when they foreſaw that a Pro<g ref="char:EOLhyphen"/>teſtant was likely after her to aſcend the Throne; namely, <hi>That Succeſſi<g ref="char:EOLhyphen"/>on to Government is neither eſta<g ref="char:EOLhyphen"/>bliſhed by the Law of Nature,</hi>
+               <note place="margin">See Dole<g ref="char:EOLhyphen"/>man.</note> 
+               <hi>nor the Law of Revelation, but only by Humane Sanctions, which men may cancel and alter as their intereſt determines them.</hi> For though they tell us now of the indiſ<g ref="char:EOLhyphen"/>penſable Obligations we are under, of ſub<g ref="char:EOLhyphen"/>mitting quietly, in caſe His Majeſty ſhould Die, to the D. of Y. albeit we cannot but think the ſubverſion of our Religion and the extirpation of our ſelves ready to enſue thereupon; yet they were pleaſed to tell our Anceſtors, that no Free people were un<g ref="char:EOLhyphen"/>der Ties to the next of the Royal Line, but that they ought to put the Scepter into ſuch a ones hand, under whom they might pro<g ref="char:EOLhyphen"/>miſe themſelves to live with Safety and Ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p>But we may the more eaſily pardon the Papiſts for ſhifting Principles according to the poſture which their affairs ſtand in, if we will obſerve how the Proteſtants of this Age differ from thoſe of the former, in re<g ref="char:EOLhyphen"/>ference to the duty of ſubmitting to, or de<g ref="char:EOLhyphen"/>barring a Popiſh Succeſſor: For whereas heretofore not only the whole Clergy, but the Nobility and Gentry, Courtiers as well as others, derived their main Arguments againſt <hi>Mary</hi> Queen of <hi>Scots,</hi> from the dan<g ref="char:EOLhyphen"/>ger that the Proteſtant Religion would be in, if being in their power, ſhe were ſuffered to ſurvive Queen <hi>Elizabeth:</hi> It is now come to paſs, that many of all Orders and Ranks, who pretend themſelves Proteſtants, are not only contented that a Popiſh Prince may be diſpenſed with as to his Religion himſelf, and live quietly amongſt them, but they ſeem uneaſie in having a Proteſtant King, and long to have one of Popiſh Principles to Rule over them. <note place="margin">
+                  <hi>See</hi> Bowes Journals.</note> How diſagreeable as to a Po<g ref="char:EOLhyphen"/>piſh Succeſſor, are the late Ad<g ref="char:EOLhyphen"/>dreſſes, from the Petitions, Votes and Acts of Parliament, and the carriage of the whole Kingdom in the 14 27, 28 and 29 years of
+<pb n="4" facs="tcp:56524:3"/>Queen <hi>Elizabeth?</hi> Then an <hi>Aſſociation</hi> to Revenge the Death of the Queen upon the Papiſts, in caſe ſhe came to an untimely end, was eſteemed a piece of Loyalty, and pro<g ref="char:EOLhyphen"/>moted by the Chief Miniſters of State; but now the Abhorring not only an ill-fram'd Paper bearing that Title, but all kinds of <hi>Aſſociations</hi> of this nature and tendency, if His Majeſty ſhould fall by Popiſh hands, is accounted the Character both of a good Sub<g ref="char:EOLhyphen"/>ject, and a true Church-of-<hi>England</hi> man. Do we live in the ſame Clime that our Ance<g ref="char:EOLhyphen"/>ſtors did? or doth the like generous Blood run in our Veins, which did in theirs? Alas, by running counter to the wiſdom of our Forefathers, we proclaim our ſelves a de<g ref="char:EOLhyphen"/>generate Iſſue, and are a reproach to the Memory of them who begot us, and who tranſmitted the Proteſtant Religion and <hi>Engliſh</hi> Liberties down to us!</p>
+            <p>And as all Addreſſes of this Nature tend to render the King, who ought to Reign in the hearts of all his People, the Head meerly of one part, and that a very incon<g ref="char:EOLhyphen"/>ſiderable one if compared with the bulk of the Nation; ſo they only ſerve to pub<g ref="char:EOLhyphen"/>liſh to all the world the diſtractions of the Kingdom, and to proclaim in the face of the Sun the weakneſs of the Government. What do the foreigners ſay upon the peruſal of our <hi>Gazets,</hi> but that either things are not managed in <hi>England</hi> according to the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ws of the Conſtitution, or that his Ma<g ref="char:EOLhyphen"/>jeſty of great <hi>Britain</hi> Reigos precariouſly, ſeeing his Miniſters ſeek to ſupport the Tranſactions of State, by courting the ap<g ref="char:EOLhyphen"/>plauſe of a few little folk here and there through the Kingdom? Nor can any ſort of men do the King a greater diſſervice, than to adminiſter grounds to our neigh<g ref="char:EOLhyphen"/>bours abroad, to entertain ſuch ſentiments of us and our affairs. I tremble to think what the wiſeſt amongſt our ſelves ſay of theſe proceedings; for tho' all men acquit his Majeſty from any intentions but what are gracious as well as juſt; yet they cannot but judg that ſome ill men are by theſe Addreſſes endeavouring to number the People, and to enroll Partiſans for ſome hidden deſign.</p>
+            <p>But the moſt fatal effect and conſequence of theſe Addreſſes, is the depriving the King of that ſecurity which the wiſdom of the Parliament had provided for his Per<g ref="char:EOLhyphen"/>ſon againſt the Papiſts. For as nothing is ſo dear to a true <hi>Engliſh</hi> Parliament, as the Life of their Sovereign; ſo the beſt expedient which our late Parliaments could think of to preſerve his Majeſty from the dangers which he was expoſed unto from the conſpiracies of the Romiſh Crew, was the propoſing an <hi>Aſſociation</hi> amongſt Pro<g ref="char:EOLhyphen"/>teſtants to revenge his Death. And as they could entertain no friendſhip for the King, who adviſed him to diſſolve the Parliament before that Bill was prepared and paſt; ſo it is apparent, that whoſoever countenanceth the abhorrence of all <hi>Aſſociations,</hi> does what in him lyes to leave the King open and naked to the helliſh deſigns of the Romiſh Faction.</p>
+            <p>Nor is it unworthy the ſerious conſidera<g ref="char:EOLhyphen"/>tion of all Loyal perſons, how they have both provided againſt the revenge of the Nation, and for their own eſtabliſhment in Power, in caſe His Majeſty ſhould be taken off; for as they have excluded all endeavours of reven<g ref="char:EOLhyphen"/>ging his Death, by getting every thing <hi>ridi<g ref="char:EOLhyphen"/>cul'd</hi> and <hi>abhorred,</hi> that lies in ſubſervien<g ref="char:EOLhyphen"/>cy thereunto; ſo they have taken care for their own ſafety after the perpetration of ſuch a Villany, by obtaining all places Civil and Military to be filled with ſuch in whom they may intirely confide; and as it is not long ſince the King of <hi>Portugal</hi> was laid a<g ref="char:EOLhyphen"/>ſide and confined to the <hi>Tarcera</hi>'s; ſo it is remarkable, That it was effected without a Blow, and by this more than any thing elſe, That there was none in publick employ, but who were Zealots for his Brother that ſup<g ref="char:EOLhyphen"/>planted him, and ſtept into his Throne.</p>
+            <p>But are ſuch as Subſcribe theſe Addreſſes, ſenſible whereabout we are, and how much the Popiſh intereſt is advanced within theſe two years? for hath not the D. of Y. intru<g ref="char:EOLhyphen"/>ded himſelf into the adminiſtration of affairs in <hi>Scotland,</hi> without taking the Oaths which the Laws of that Kingdom do require? Hath he not at the ſame time that he cauſed Pro<g ref="char:EOLhyphen"/>teſtant Diſſenters to be diſturbed and appre<g ref="char:EOLhyphen"/>hended, permitted Maſs to be ſaid under the ſame Roof, or at the next Door? Hath he given any ſecurity to Proteſtants there, for their ſafety in the Profeſſion of the Prote<g ref="char:EOLhyphen"/>ſtant Religion, tho' he hath gotten himſelf excepted from all Teſts that relate to the preſervation or Liberty of it? Are not the Papiſts in <hi>Lancaſhire</hi> arrived to that boldneſs, as to Murder His Majeſties Officers in the diſcharge of their Duty, and to reſcue Re<g ref="char:EOLhyphen"/>cuſants out of the hands of thoſe that had ta<g ref="char:EOLhyphen"/>ken them in Execution? Hath not the High Sheriff of <hi>Northumberland</hi> carried <abbr>Eſq</abbr> 
+               <hi>Riddel</hi> and <abbr>Eſq</abbr> 
+               <hi>Claverine,</hi> and divers other Papiſts who were Priſoners for the Popiſh Plot, to <hi>Edenburgh,</hi> to Kiſs the Dukes hand, and this both in defiance of all Law, and a<g ref="char:EOLhyphen"/>gainſt his Truſt? But it would require a Vo<g ref="char:EOLhyphen"/>lume to recount all I know of this nature; and therefore ſhall only add, That they muſt be prepared to worſhip the <hi>Hoſt,</hi> and wear Chains, who either promote or ſubſcribe the Addreſſes which are now carrying on.</p>
+            <closer>
+               <signed>I am Sir, intirely yours.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwyn,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
